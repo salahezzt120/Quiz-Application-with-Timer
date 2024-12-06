@@ -1,6 +1,6 @@
 # Quiz Application with Timer
 
-![Quiz App Banner](path/to/your/image.png)
+![Quiz App Banner](banner.png)
 
 ## 📋 Project Description
 This **Quiz Application with Timer** is built in Java, designed for an interactive quiz experience. It features:
@@ -12,10 +12,6 @@ This **Quiz Application with Timer** is built in Java, designed for an interacti
 
 ---
 
-## 🖼️ Banner
-![Quiz App Banner](path/to/your/image.png)
-
----
 
 ## 📑 Table of Contents
 1. [Features](#features)
