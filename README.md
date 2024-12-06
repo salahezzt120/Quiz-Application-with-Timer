@@ -42,4 +42,4 @@ This **Quiz Application with Timer** is built in Java, designed for an interacti
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Quiz-Application-with-Timer.git
+   https://github.com/salahezzt120/Quiz-Application-with-Timer.git
