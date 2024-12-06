@@ -12,19 +12,6 @@ This **Quiz Application with Timer** is built in Java, designed for an interacti
 
 ---
 
-
-## 📑 Table of Contents
-1. [Features](#features)
-2. [Requirements](#requirements)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Screenshots](#screenshots)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Acknowledgments](#acknowledgments)
-
----
-
 ## 🌟 Features
 - **Real-time Timer**: Each question has a set time limit.
 - **Multiple-Choice Options**: Easy to navigate and answer.
