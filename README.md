@@ -21,8 +21,9 @@ This **Quiz Application with Timer** is built in Java, designed for an interacti
 ---
 
 ## 🛠️ Requirements
-- Java Development Kit (JDK) 11 or higher.
-- IDE (e.g., IntelliJ IDEA, Eclipse) for running the project.
+- **HTML**: For structuring the quiz content.
+- **CSS**: For styling the quiz interface.
+- **JavaScript**: For functionality like the timer, score calculation, and user interactions.
 
 ---
 
